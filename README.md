@@ -60,7 +60,8 @@ src/main/java/com/api/estudiante/
 
 ## Documentación de la API (Swagger)
 
-Una vez que el servidor esté corriendo, puedes acceder a la interfaz interactiva en: -- http://localhost:8080/swagger-ui/index.html
+Una vez que el servidor esté corriendo, puedes acceder a la interfaz interactiva en: 
+ http://localhost:8080/swagger-ui/index.html
 
 ## Pruebas con Postman
 
