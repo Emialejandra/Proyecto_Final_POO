@@ -1,11 +1,11 @@
-#  Sistema de Gestión de Biblioteca - API REST
+#  API REST (Estudiante)
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-brightgreen)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 
-Este proyecto es una **API RESTful** robusta desarrollada para la gestión de un sistema bibliotecario, permitiendo administrar estudiantes, libros y préstamos de manera eficiente.
+Este proyecto es una **API REST** robusta desarrollada para la gestión de un registro de Estudiantes , permitiendo agregar, modificar, buscar e eliminar un estudiante.
 
 ## Integrantes
 * **Arias Ariel**
